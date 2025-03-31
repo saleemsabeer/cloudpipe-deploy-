@@ -66,5 +66,3 @@ This foundational CI/CD pipeline allows CloudPipe to:
 - Deliver changes to production quickly and confidently
 
 ---
-
-## 📁 Folder Structure (Optional Example)
